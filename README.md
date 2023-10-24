@@ -3,9 +3,9 @@ Tugas praktikum 2
 
 # Laporan Praktikum
 * Latihan 1:
-> Python bersifat case-sensitive, jadi perhatikan besar kecil huruf yang digunakan.
+> Python peka terhadap huruf besar-kecil, jadi perhatikan ukuran huruf besar-kecil yang digunakan
 <p align="left">
-  
+  <img src="/ss/latihan1.jpg" width="700">  
 </p>
 
     print("Hello!")
@@ -16,7 +16,7 @@ perintah print berfungsi untuk perintah maupun mencetak kata pada Python.
 * Latihan 2:
 > a + b bisa saja ditulis menjadi a+b tapi penggunaan Python mempunyai standar keteraturan.
 <p align="left">
-
+  <img src="/ss/latihan2.jpg" width="600">
 </p>
 
     # variabel
