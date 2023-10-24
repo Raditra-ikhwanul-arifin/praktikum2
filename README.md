@@ -14,7 +14,7 @@ Tugas praktikum 2
 perintah print berfungsi untuk perintah maupun mencetak kata pada Python.
 
 * Latihan 2:
-> a + b bisa saja ditulis menjadi a+b tapi penggunaan Python mempunyai standar keteraturan.
+> a + b dapat ditulis menjadi a+b tetapi penggunaan Python mempunyai standar keteraturan.
 <p align="left">
   <img src="/ss/latihan2.jpg" width="600">
 </p>
@@ -32,11 +32,11 @@ a = 77 dan b = 777 yaitu variabel dan intenger.
 , a + b yaitu perintah pada Python untuk menjumlahkan variabel yang tertera.
 
 * Latihan 3:
-> int bersifat opsional, gunakan jika ingin kode lebih terstruktur.
+> int bersifat opsional, gunakan jika Anda ingin kode yang lebih terstruktur. 
 <p align="left">
-
+  <img src="/ss/latihan3.jpg" width="700">  
 </p>
-
+   
     # input nilai variabel bersifat intenger
     n = int(input("Masukan nilai n: "))
     t = int(input("Masukan nilai t: "))
@@ -54,9 +54,9 @@ a = 77 dan b = 777 yaitu variabel dan intenger.
     print("Hasil penjumlahan {0} + {1}: %d".format(n, t) % (n + t))
     print("Hasil pembagian {0} / {1}: %d".format(n, t) % (n / t))
 
-int berfungsi untuk mendefinisikan sifat perintah menjadi bilangan bulat.
-input berfungsi untuk memasukan kata atau bilangan yang diinginkan.
-, n dan , t berfungsi untuk meletakan variabel yang sudah didefinisikan sebelumnya.
-{0} dan {1} berfungsi untuk memanggil variabel sesuai urutan.
-%d merupakan hasil dengan definisi sesuai pada .format.
+int berfungsi untuk menentukan sifat perintah sebagai bilangan bulat. Input 
+ berfungsi untuk memasukkan kata atau angka yang diinginkan. 
+, n dan , t berfungsi untuk mengatur variabel yang telah ditentukan sebelumnya. 
+Fungsi {0} dan {1}  untuk memanggil variabel secara berurutan. 
+%d adalah hasil dengan definisi yang cocok dalam .format. 
 
